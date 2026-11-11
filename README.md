@@ -12,7 +12,7 @@ The project contains two dashboard pages:
 
 ### 1. Executive Summary
 
-![Executive Summary Dashboard](images/executive-summary.png)
+![Executive Summary Dashboard](images/Dashboard1.png)
 
 This page provides an overview of the key business metrics and performance trends.
 
@@ -40,7 +40,7 @@ This page provides an overview of the key business metrics and performance trend
 
 ### 2. Detailed Company Analysis
 
-![Detailed Company Analysis Dashboard](images/detailed-company-analysis.png)
+![Detailed Company Analysis Dashboard](images/Dashboard2.png)
 
 This page focuses on company-level performance and business composition.
 
@@ -154,10 +154,14 @@ This dashboard is intended to help explore questions such as:
 
 ## Author
 
-**Shubham Kumar**  
-MBA – Business Analytics
+**Harshit Kumar Pandey**\
+MBA -- Business Analytics\
+Interested in Data Analytics, Business Intelligence, and data-driven
+decision-making.
 
----
+------------------------------------------------------------------------
+
+If you find this project useful, feel free to ⭐ the repository.
 
 ## Disclaimer
 
